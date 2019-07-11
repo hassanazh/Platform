@@ -7,7 +7,7 @@ A pawn can move on 10x10 chequerboard horizontally, vertically and diagonally by
 3) Moves are only allowed if the ending tile exists on the board
 4) Starting from initial position, the pawn can visit each cell only once
 
-Write a program that finds at least one path for the pawn to visit all tiles on the board following the
+A program that finds at least one path for the pawn to visit all tiles on the board following the
 above rules, starting from any tile.
 
 ### APIs created
